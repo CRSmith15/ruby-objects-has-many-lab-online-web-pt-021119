@@ -7,10 +7,10 @@ class Song
     @@all << self
   end 
   
+  def artist_name
+  
   def self.all 
     @@all
   end
-  
-  def 
   
 end
