@@ -14,4 +14,6 @@ class Post
       nil 
     end
   end
+  
+  def 
 end
